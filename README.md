@@ -1,1 +1,1 @@
-# Django mini project home page sample 
+# Django mini project home page
